@@ -8,4 +8,4 @@ It is designed so that there is space for capacitors in the enclosure.
 ## 100x60x10mm Heatsink
 https://de.aliexpress.com/item/32849272994.html
 
-![](./images/image2.png)
+![](./images/image3.jpg)
