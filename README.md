@@ -8,6 +8,7 @@ Parts:
 * Noctua 40mm 5V Fan
 * 2x 2,7V 10F Supercap
 * Blocking Diode
+* GoPro Mount
 
 ![](./images/image1.png)
 
