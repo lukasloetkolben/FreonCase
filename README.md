@@ -10,12 +10,12 @@ Parts:
 * Blocking Diode
 * GoPro Mount
 
-## 40mm Fan
+## 40mm Fan Version
 ![](./images/image1.png)
 
 ![](./images/image2.png)
-
-## 60mm Fan
+ 
+## 60mm Fan Version
 ![](./images/image4.png)
 
 ![](./images/image5.png)
